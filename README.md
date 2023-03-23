@@ -2,7 +2,7 @@
 
 ## 🔴 Live Demo
 
-[Click here...](https://samer-linkedin.firebaseapp.com/)
+[Click here...](https://linkedin-clone-be2e5.web.app/)
 
 ## Description
 
@@ -33,7 +33,7 @@ LinkedIn Clone with React, Redux, Styled Components, and Firebase.
 
 ## Authors
 
-Authored by [Samer A.](https://cleversamer.web.app/)
+Authored by [Rishu-kumar -dubey]
 
 ## Version History
 
